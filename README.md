@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Sou a Karen.
 
-<!--
-**KarenMarques1/KarenMarques1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora`**
 
-Here are some ideas to get you started:
+Tenho 29 anos, sou bacharel em Direito pela UNIFIL - Londrina, mas atualmente estou migrando para a área de tecnologia. Atualmente, estou no 3º módulo do curso de Desenvolvimento de Sistemas no SENAI - Londrina (modalidade SemiPresencial) e também cursando Engenharia de Software na faculdade Anhanguera.
+Neste espaço, compartilho meus projetos, códigos e tudo o que estou aprendendo ao longo dessa jornada. Tenho conhecimentos em JavaScript, JavaFX, HTML e CSS, e estou sempre em busca de novas oportunidades para aprimorar minhas habilidades. 
+Linkedin: "[Karen Marques Lima](www.linkedin.com/in/karen-marques-lima)"
+Instagram: "[@karenmmarques]((https://www.instagram.com/karenmmarques?igsh=N2l5YXBjZXY0N3R2&utm_source=qr)"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
